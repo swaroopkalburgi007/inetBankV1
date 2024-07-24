@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="InetBankV1">
+
+<listeners>
+		<listener class-name="com.inetBank.utilities.ExtentTestNGListener" />
+	</listeners>
+	
+  <test name="BankingApp Test">
+  
+      <parameter name="browser" value="ie" />
+       <classes>
+               <class name="com.inetBank.testCases.TC_logintest_01"/>
+           
+        </classes>
+    </test>
+</suite>

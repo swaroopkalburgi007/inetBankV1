@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <theme>standard</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>HTTPS</protocol>
+    <enableOfflineMode>true</enableOfflineMode>
+    <documentTitle>Automation Report</documentTitle>
+    <reportName>Extent Reports</reportName>
+    <reportHeadline>Test Execution Report</reportHeadline>
+</configuration>

@@ -1,0 +1,10 @@
+com\inetBank\utilities\ReadConfig.class
+com\inetBank\testCases\baseClass.class
+com\inetBank\pageObjects\Loginpage.class
+com\inetBank\testCases\TC_loginDDT_02.class
+com\inetBank\testCases\TC_logintest_01.class
+com\inetBank\utilities\XLUtils.class
+com\inetBank\utilities\ExtentManager.class
+com\inetBank\utilities\ExtentTestNGListener.class
+com\inetBank\pageObjects\AddCustomerPage.class
+com\inetBank\utilities\XLUtils$1.class
